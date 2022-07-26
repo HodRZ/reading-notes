@@ -2,7 +2,7 @@
 
 a journal to document the journey of learning web-dev
 
-![web dev}(https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif)
+![web dev](https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif)
 
 ---
 
