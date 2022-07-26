@@ -10,5 +10,6 @@ a journal to document the journey of learning web-dev
 
 [class01 - Introduction to React and Components](./301/class01.md)
 
-
 [class02 - State, Props, and the Component Lifecycle](./301/class02.md)
+
+[class03 - Passing Functions as Props](./301/class03.md)
