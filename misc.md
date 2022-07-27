@@ -1,5 +1,13 @@
 # Things I want to know more about
 
-1- Asynchronous rendering, side effects, and static methods  [notes](https://stackoverflow.com/questions/52886075/why-is-getderivedstatefromprops-is-a-static-method)
+1- Asynchronous rendering 
 
-2- source of truth and state managemnet 
+- [general reading](https://stackoverflow.com/questions/52886075/why-is-getderivedstatefromprops-is-a-static-method)
+
+2- side effects
+
+- [lifecycle and strict mode](https://stackoverflow.com/questions/62185425/why-is-console-log-logging-twice-in-react-js)
+
+3- static methods
+
+4- source of truth and state managemnet 
