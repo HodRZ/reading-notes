@@ -11,3 +11,6 @@
 3- static methods
 
 4- source of truth and state managemnet 
+
+5- state colocation
+- [forms performance](https://epicreact.dev/improve-the-performance-of-your-react-forms/)
