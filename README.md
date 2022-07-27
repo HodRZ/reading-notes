@@ -15,3 +15,6 @@ a journal to document the journey of learning web-dev
 [class03 - Passing Functions as Props](./301/class03.md)
 
 [class04 - React and Form](./301/class04.md)
+
+
+### [Things I want to know more about](./misc.md)
