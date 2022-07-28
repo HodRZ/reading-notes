@@ -27,4 +27,4 @@
 
 ## interesting resources
 
-- [eloquuent Javascript](https://eloquentjavascript.net/)
+- [eloquent Javascript](https://eloquentjavascript.net/)
