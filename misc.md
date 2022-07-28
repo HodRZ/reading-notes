@@ -23,6 +23,8 @@
 
 8- information architecture
 
+9- javascript type conversion and coercion
+
 ---
 
 ## interesting resources
