@@ -22,3 +22,9 @@
 7- Reconciliation
 
 8- information architecture
+
+---
+
+## interesting resources
+
+- [eloquuent Javascript](https://eloquentjavascript.net/)
