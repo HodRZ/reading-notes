@@ -3,6 +3,7 @@
 1- Asynchronous rendering 
 
 - [general reading](https://stackoverflow.com/questions/52886075/why-is-getderivedstatefromprops-is-a-static-method)
+- [state and props](https://reactjs.org/docs/faq-state.html#what-is-the-difference-between-state-and-props)
 
 2- side effects
 
@@ -14,3 +15,7 @@
 
 5- state colocation
 - [forms performance](https://epicreact.dev/improve-the-performance-of-your-react-forms/)
+
+6- Affordances in UX design
+
+7- Reconciliation
