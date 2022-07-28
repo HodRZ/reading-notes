@@ -19,3 +19,5 @@
 6- Affordances in UX design
 
 7- Reconciliation
+
+8- information architecture
