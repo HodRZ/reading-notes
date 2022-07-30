@@ -1,4 +1,4 @@
-# React and Form
+# React and Forms
 
 - ## Forms
 
