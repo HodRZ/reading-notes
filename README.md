@@ -8,6 +8,8 @@ a journal to document the journey of learning web-dev
 
 ## JS301
 
+### Week I
+---
 [class01 - Introduction to React and Components](./301/class01.md)
 
 [class02 - State, Props, and the Component Lifecycle](./301/class02.md)
@@ -16,5 +18,7 @@ a journal to document the journey of learning web-dev
 
 [class04 - React and Form](./301/class04.md)
 
-
+---
+### Week II
+---
 ### [Things I want to know more about](./misc.md)
