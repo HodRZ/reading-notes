@@ -22,4 +22,6 @@ a journal to document the journey of learning web-dev
 ### Week II
 ---
 [class06 - Node.JS](./301/class06.md)
+
+---
 ### [Things I want to know more about](./misc.md)
