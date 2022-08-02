@@ -23,5 +23,9 @@ a journal to document the journey of learning web-dev
 ---
 [class06 - Node.JS](./301/class06.md)
 
+[Class07]
+
+[Class08 - RESTful API](./301/class08.md)
+
 ---
 ### [Things I want to know more about](./misc.md)
