@@ -25,6 +25,8 @@
 
 9- javascript type conversion and coercion
 
+10- Regular Expressions (Regex)
+
 ---
 
 ## interesting resources
