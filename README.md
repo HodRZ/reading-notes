@@ -9,6 +9,7 @@ a journal to document the journey of learning web-dev
 ## JS301
 
 ### Week I
+
 ---
 [class01 - Introduction to React and Components](./301/class01.md)
 
@@ -19,7 +20,9 @@ a journal to document the journey of learning web-dev
 [class04 - React and Form](./301/class04.md)
 
 ---
+
 ### Week II
+
 ---
 [class06 - Node.JS](./301/class06.md)
 
@@ -27,5 +30,10 @@ a journal to document the journey of learning web-dev
 
 [Class08 - RESTful API](./301/class08.md)
 
+[Class09 - Functional Programming](./301/class09.md)
+
+[Class08 - The Call Stack](./301/class10.md)
+
 ---
+
 ### [Things I want to know more about](./misc.md)
