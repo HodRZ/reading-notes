@@ -36,6 +36,8 @@ a journal to document the journey of learning web-dev
 
 [Class11 - Mongo and Mongoose](./301/class11.md)
 
+[Class12 - CRUD](./301/class12.md)
+
 ---
 
 ### [Things I want to know more about](./misc.md)
