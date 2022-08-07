@@ -32,7 +32,9 @@ a journal to document the journey of learning web-dev
 
 [Class09 - Functional Programming](./301/class09.md)
 
-[Class08 - The Call Stack](./301/class10.md)
+[Class10 - The Call Stack](./301/class10.md)
+
+[Class11 - Mongo and Mongoose](./301/class11.md)
 
 ---
 
