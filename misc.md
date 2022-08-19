@@ -27,6 +27,10 @@
 
 10- Regular Expressions (Regex)
 
+11- React context
+
+ - [formik](https://formik.org/)
+
 ---
 
 ## interesting resources
