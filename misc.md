@@ -38,3 +38,4 @@
 - [eloquent Javascript](https://eloquentjavascript.net/)
 - [v8 docs](https://v8.dev/blog/ignition-interpreter)
 - [SemVar](https://semver.org/)
+- Dan Abramov blog [Overreacted](https://overreacted.io/)
