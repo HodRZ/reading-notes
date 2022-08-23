@@ -40,3 +40,7 @@
 - [SemVar](https://semver.org/)
 - Dan Abramov blog [Overreacted](https://overreacted.io/)
 - fabric
+- [Error Boundries](https://meticulous.ai/blog/react-error-boundaries-complete-guide/)
+- mantine
+- amplication
+- super token
