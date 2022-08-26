@@ -44,3 +44,4 @@
 - mantine
 - amplication
 - super token
+- bcrypt
