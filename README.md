@@ -45,4 +45,14 @@ a journal to document the journey of learning web-dev
 [Class12 - CRUD](./301/class12.md)
 
 ---
+
+## JS401
+
+### Week I
+
+---
+
+[Class01 - Express](./401/class01.md)
+
+---
 ### [Things I want to know more about](./misc.md)
