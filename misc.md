@@ -31,6 +31,8 @@
 
 12- [formik](https://formik.org/)
 
+13- [ASI](https://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi)
+
 ---
 
 ## interesting resources
