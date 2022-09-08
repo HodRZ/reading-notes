@@ -51,3 +51,4 @@
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [puzpuzpuz](https://puzpuzpuz.io/)
 - v8 deep dive
+- [Why is there not an implementation of a linked list in JavaScript?](https://stackoverflow.com/questions/72297950/why-is-there-not-an-implementation-of-a-linked-list-in-javascript)
