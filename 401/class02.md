@@ -21,6 +21,8 @@ ___
 
 Sequelize handles the translation from JavaScript to SQL statements, allowing us to interact with a Postgres database using JavaScript instead of SQL.
 
+![Sequelize](https://res.cloudinary.com/practicaldev/image/fetch/s--KsAKfY6F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://loizenai.com/wp-content/uploads/2020/08/Nodejs-PostgreSQL-CRUD-Example-Architecture-Overview.png)
+
 ___
 
 ### How to Sequelize
