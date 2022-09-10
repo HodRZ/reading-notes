@@ -48,11 +48,11 @@ a journal to document the journey of learning web-dev
 
 ## JS401
 
-### Week I
-
 ---
 
 [Class01 - Express](./401/class01.md)
+
+[Class02 - ORM](./401/class02.md)
 
 ---
 ### [Things I want to know more about](./misc.md)
