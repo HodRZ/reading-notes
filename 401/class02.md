@@ -1,6 +1,6 @@
 # SQL database, ORM, Sequelize
 
-In a previous readings (*[Mongo](./301/class11.md)*) we touched on the topic of databases and the difference between SQL and NoSQL databases, this time we'll focus on the SQL part.
+In a previous readings (*[Mongo](./../301/class11.md)*) we touched on the topic of databases and the difference between SQL and NoSQL databases, this time we'll focus on the SQL part.
 ___
 
 ## ORM
