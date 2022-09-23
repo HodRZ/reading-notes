@@ -46,7 +46,6 @@
 - mantine
 - amplication
 - super token
-- bcrypt
 - [styled components](https://styled-components.com/docs/basics)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [puzpuzpuz](https://puzpuzpuz.io/)
