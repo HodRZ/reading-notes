@@ -53,3 +53,4 @@
 - [Why is there not an implementation of a linked list in JavaScript?](https://stackoverflow.com/questions/72297950/why-is-there-not-an-implementation-of-a-linked-list-in-javascript)
 - [ok! So...](https://okso.app/)
 - [owasp](https://owasp.org/)
+- [Auth code flow with PKCE](https://cloudentity.com/developers/basics/oauth-grant-types/authorization-code-with-pkce/)
