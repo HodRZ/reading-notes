@@ -1,37 +1,35 @@
 # Things I want to know more about
 
-1- Asynchronous rendering 
+- Asynchronous rendering 
 
-- [general reading](https://stackoverflow.com/questions/52886075/why-is-getderivedstatefromprops-is-a-static-method)
-- [state and props](https://reactjs.org/docs/faq-state.html#what-is-the-difference-between-state-and-props)
-- [why setState asynch comment](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
+  - [general reading](https://stackoverflow.com/questions/52886075/why-is-getderivedstatefromprops-is-a-static-method)
+  - [state and props](https://reactjs.org/docs/faq-state.html#what-is-the-difference-between-state-and-props)
+  - [why setState asynch comment](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
 
-2- side effects
+- side effects
 
-- [lifecycle and strict mode](https://stackoverflow.com/questions/62185425/why-is-console-log-logging-twice-in-react-js)
+  - [lifecycle and strict mode](https://stackoverflow.com/questions/62185425/why-is-console-log-logging-twice-in-react-js)
 
-3- static methods
+- static methods
 
-4- source of truth and state managemnet 
+- source of truth and state managemnet 
 
-5- state colocation
-- [forms performance](https://epicreact.dev/improve-the-performance-of-your-react-forms/)
+- state colocation
+  - [forms performance](https://epicreact.dev/improve-the-performance-of-your-react-forms/)
 
-6- Affordances in UX design
+- Affordances in UX desig
 
-7- Reconciliation
+- information architecture
 
-8- information architecture
+- javascript type conversion and coercion
 
-9- javascript type conversion and coercion
+- Regular Expressions (Regex)
 
-10- Regular Expressions (Regex)
+- React context
 
-11- React context
+- [formik](https://formik.org/)
 
-12- [formik](https://formik.org/)
-
-13- [ASI](https://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi)
+- [ASI](https://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi)
 
 ---
 
