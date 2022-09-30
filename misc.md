@@ -53,3 +53,4 @@
 - [owasp](https://owasp.org/)
 - [Auth code flow with PKCE](https://cloudentity.com/developers/basics/oauth-grant-types/authorization-code-with-pkce/)
 - [Cryptographic Storage](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
+- [react hooks](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/) 
