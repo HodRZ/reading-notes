@@ -8,8 +8,6 @@
 
 - side effects
 
-  - [lifecycle and strict mode](https://stackoverflow.com/questions/62185425/why-is-console-log-logging-twice-in-react-js)
-
 - static methods
 
 - source of truth and state managemnet 
