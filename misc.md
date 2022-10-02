@@ -21,7 +21,7 @@
 
 - javascript type conversion and coercion
 
-- Regular Expressions (Regex)
+- Regular Expressions (Regex) 
 
 - React context
 
