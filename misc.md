@@ -23,8 +23,6 @@
 
 - Regular Expressions (Regex) 
 
-- React context
-
 - [formik](https://formik.org/)
 
 - [ASI](https://stackoverflow.com/questions/2846283/what-are-the-rules-for-javascripts-automatic-semicolon-insertion-asi)
