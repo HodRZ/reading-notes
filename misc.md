@@ -10,7 +10,9 @@
 
 - static methods
 
-- source of truth and state managemnet 
+- source of truth
+
+- state managemnet 
 
 - state colocation
   - [forms performance](https://epicreact.dev/improve-the-performance-of-your-react-forms/)
