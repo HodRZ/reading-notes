@@ -54,3 +54,4 @@
 - [react hooks](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/) 
 - [Blogged Answers: React Render](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [patterns](https://www.patterns.dev/)
+- [anime.js](https://animejs.com/)
