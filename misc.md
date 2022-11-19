@@ -57,3 +57,4 @@
 - [anime.js](https://animejs.com/)
 - [awesome NodeJs](https://github.com/sindresorhus/awesome-nodejs)
 - [functional programmin](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+- [pointers for JS](https://daveceddia.com/javascript-references/)
