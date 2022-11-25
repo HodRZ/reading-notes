@@ -59,3 +59,4 @@
 - [functional programmin](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 - [pointers for JS](https://daveceddia.com/javascript-references/)
 - [idiomatic redux](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
+- [functional cake](https://probablydance.com/2016/02/27/functional-programming-is-not-popular-because-it-is-weird/)
